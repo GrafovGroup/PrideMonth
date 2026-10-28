@@ -1,0 +1,5 @@
+import {pageMetadata} from '@/lib/seo';
+import ServiceImage from '@/components/service-image';
+import Link from '@/components/site-link';import {Header,Footer} from '../page';import {programs} from '../program-data';
+export const metadata=pageMetadata("Corporate Pride Programs","Compare employee Pride kits, corporate events, retail and property programs, and national rollouts. Find the right program for your Canadian organization.","/programs");
+export default function Page(){return <><Header/><main id="main-content" tabIndex={-1} className="wrap page-hero"><p className="eyebrow">BUILT AROUND YOUR ORGANIZATION</p><h1>A program for <span className="serif">your people.</span></h1><p className="lead">Start with the outcome you need. We’ll help scope the products, services and delivery requirements for a custom proposal.</p><div className="program-grid">{programs.map(p=><Link className="service" href={'/programs/'+p.slug} key={p.slug}><ServiceImage slug={p.slug} compact/><p className="eyebrow">{p.buyer}</p><h2 style={{fontSize:'2rem'}}>{p.title}</h2><p>{p.intro}</p><span>Explore the program ↗</span></Link>)}</div></main><Footer/></>}

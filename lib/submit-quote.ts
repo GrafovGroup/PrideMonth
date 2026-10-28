@@ -1,0 +1,4 @@
+export async function submitQuote(contact:{email:string;organization:string},brief:string,send:typeof fetch=fetch,locale:'en'|'fr'='en'){
+ const response=await send('https://formspree.io/f/mgaezqaw',{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify({email:contact.email,organization:contact.organization,message:brief,_subject:locale==='fr'?'PrideMonth.ca — demande de proposition en français':'PrideMonth.ca — corporate proposal request',language:locale})});
+ if(!response.ok){let detail='';try{const data=await response.json() as {errors?:{message?:string}[]};detail=data.errors?.map(e=>e.message).filter(Boolean).join(' ')||'';}catch{}throw new Error(detail||'We could not submit your request. Please try again or email info@pridemonth.ca.');}
+}

@@ -1,0 +1,4 @@
+'use client';
+import {usePathname} from 'next/navigation';
+import {useEffect,useState} from 'react';
+export default function LanguageSwitch(){const pathname=usePathname()||'/';const french=pathname==='/fr'||pathname.startsWith('/fr/');const target=french?(pathname.slice(3)||'/'):'/fr'+(pathname==='/'?'':pathname);const [query,setQuery]=useState('');useEffect(()=>{setQuery(window.location.search)},[pathname]);const other=<a href={target+query} hrefLang={french?'en-CA':'fr-CA'} lang={french?'en':'fr'} aria-label={french?'Read this page in English':'Lire cette page en français'}>{french?'EN':'FR'}</a>;const current=<span className="selected" aria-current="true" lang={french?'fr':'en'}>{french?'FR':'EN'}</span>;return <div className="language-switch" role="group" aria-label={french?'Langue du site':'Site language'}>{french?<>{other}{current}</>:<>{current}{other}</>}</div>}
