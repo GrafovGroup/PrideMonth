@@ -41,3 +41,7 @@ Search indexing and AI citations are not guaranteed. Verify the domain in Search
 - Existing production audience, routes and inquiry destination retained.
 
 Validation: TypeScript check and production build. Managed preview was unavailable (Cloudflare local runtime lookup failure); browser checks must be recorded separately. Production inquiry delivery should be tested with an approved real inquiry rather than an automated test lead.
+
+## Expanded image collection
+
+Ten original AI-generated illustrative concepts are integrated into English and French service cards, program pages and inspiration galleries. Optimized assets are in `public/images/pride/`, with 1280px and 640px WebP variants, responsive source sets and descriptive bilingual alt text. Image prompts and generation provenance are recorded in `docs/image-prompts.json`. These images do not depict completed client projects or guaranteed inventory.

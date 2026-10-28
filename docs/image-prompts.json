@@ -1,0 +1,66 @@
+{
+  "generator": "Built-in image generation",
+  "purpose": "Illustrative planning concepts; not actual customer projects or stock inventory",
+  "assets": [
+    {
+      "id": "employee-kits",
+      "path": "public/images/pride/employee-kits.webp",
+      "mobilePath": "public/images/pride/employee-kits-640.webp",
+      "prompt": "Use case: photorealistic-natural / product-mockup. Asset type: landscape 3:2 website photograph for PrideMonth.ca, a Canadian corporate Pride planning business. Create ONE finished photograph, not a collage. Scene: A carefully arranged employee welcome gift kit in an open kraft presentation box: folded cream T-shirt with a small rainbow stripe, reusable cream bottle, small enamel rainbow pin, notebook and rainbow lanyard on tissue paper. Close three-quarter product photography on warm pale oak. Style: premium editorial photography, warm ivory and muted forest-green environment, authentic six-stripe rainbow accents, tactile natural materials, soft daylight, balanced contemporary composition. Keep important subjects within the central 80% for responsive cropping. No captions, no watermark, no invented branding, no overlaid text. This is an illustrative planning concept, not documentary evidence of an actual customer project."
+    },
+    {
+      "id": "pride-apparel",
+      "path": "public/images/pride/pride-apparel.webp",
+      "mobilePath": "public/images/pride/pride-apparel-640.webp",
+      "prompt": "Use case: photorealistic-natural / product-mockup. Asset type: landscape 3:2 website photograph for PrideMonth.ca, a Canadian corporate Pride planning business. Create ONE finished photograph, not a collage. Scene: A clothing rail with three tasteful white and forest-green T-shirts and a cream sweatshirt, each with a modest embroidered six-stripe rainbow motif, folded cotton tote and fabric swatches nearby. Premium apparel studio, realistic cotton textures, no people. Style: premium editorial photography, warm ivory and muted forest-green environment, authentic six-stripe rainbow accents, tactile natural materials, soft daylight, balanced contemporary composition. Keep important subjects within the central 80% for responsive cropping. No captions, no watermark, no invented branding, no overlaid text. This is an illustrative planning concept, not documentary evidence of an actual customer project."
+    },
+    {
+      "id": "flags-signage",
+      "path": "public/images/pride/flags-signage.webp",
+      "mobilePath": "public/images/pride/flags-signage-640.webp",
+      "prompt": "Use case: photorealistic-natural / product-mockup. Asset type: landscape 3:2 website photograph for PrideMonth.ca, a Canadian corporate Pride planning business. Create ONE finished photograph, not a collage. Scene: A bright contemporary Canadian office reception with a six-stripe rainbow flag on a polished desk stand, discreet rainbow bands on large window panes and a freestanding elegant blank sign panel with a rainbow border. Architectural photography, no text. Style: premium editorial photography, warm ivory and muted forest-green environment, authentic six-stripe rainbow accents, tactile natural materials, soft daylight, balanced contemporary composition. Keep important subjects within the central 80% for responsive cropping. No captions, no watermark, no invented branding, no overlaid text. This is an illustrative planning concept, not documentary evidence of an actual customer project."
+    },
+    {
+      "id": "event-lounge",
+      "path": "public/images/pride/event-lounge.webp",
+      "mobilePath": "public/images/pride/event-lounge-640.webp",
+      "prompt": "Use case: photorealistic-natural / product-mockup. Asset type: landscape 3:2 website photograph for PrideMonth.ca, a Canadian corporate Pride planning business. Create ONE finished photograph, not a collage. Scene: An inviting workplace Pride reception in a modern glass atrium: cocktail tables, modular lounge furniture, flower arrangements and subtle rainbow bunting, two small rainbow flags. Wide architectural view with inviting natural daylight, no people. Style: premium editorial photography, warm ivory and muted forest-green environment, authentic six-stripe rainbow accents, tactile natural materials, soft daylight, balanced contemporary composition. Keep important subjects within the central 80% for responsive cropping. No captions, no watermark, no invented branding, no overlaid text. This is an illustrative planning concept, not documentary evidence of an actual customer project."
+    },
+    {
+      "id": "pride-decor",
+      "path": "public/images/pride/pride-decor.webp",
+      "mobilePath": "public/images/pride/pride-decor-640.webp",
+      "prompt": "Use case: photorealistic-natural / product-mockup. Asset type: landscape 3:2 website photograph for PrideMonth.ca, a Canadian corporate Pride planning business. Create ONE finished photograph, not a collage. Scene: Tasteful Pride event decoration installation in a bright office lounge: sculptural paper honeycomb balls in six rainbow colours suspended at different heights, a minimalist floral arrangement and a small welcome table. Realistic decor, restrained upscale editorial style, no lettering. Style: premium editorial photography, warm ivory and muted forest-green environment, authentic six-stripe rainbow accents, tactile natural materials, soft daylight, balanced contemporary composition. Keep important subjects within the central 80% for responsive cropping. No captions, no watermark, no invented branding, no overlaid text. This is an illustrative planning concept, not documentary evidence of an actual customer project."
+    },
+    {
+      "id": "national-rollout",
+      "path": "public/images/pride/national-rollout.webp",
+      "mobilePath": "public/images/pride/national-rollout-640.webp",
+      "prompt": "Use case: photorealistic-natural / product-mockup. Asset type: landscape 3:2 website photograph for PrideMonth.ca, a Canadian corporate Pride planning business. Create ONE finished photograph, not a collage. Scene: A bright clean packing studio with twelve kraft employee gift boxes arranged on long tables, cream tote bags, rainbow ribbons and small neatly stacked rainbow pins. A staff member's hands packing one box at the edge, focus on organized multi-location fulfilment, no visible labels or text. Style: premium editorial photography, warm ivory and muted forest-green environment, authentic six-stripe rainbow accents, tactile natural materials, soft daylight, balanced contemporary composition. Keep important subjects within the central 80% for responsive cropping. No captions, no watermark, no invented branding, no overlaid text. This is an illustrative planning concept, not documentary evidence of an actual customer project."
+    },
+    {
+      "id": "team-workshop",
+      "path": "public/images/pride/team-workshop.webp",
+      "mobilePath": "public/images/pride/team-workshop-640.webp",
+      "prompt": "Use case: photorealistic-natural / product-mockup. Asset type: landscape 3:2 website photograph for PrideMonth.ca, a Canadian corporate Pride planning business. Create ONE finished photograph, not a collage. Scene: Six adult colleagues with varied ages and skin tones in a natural, collaborative workplace workshop, seated around an oak table with colourful sticky notes, notebooks and a small rainbow desk flag. Candid respectful editorial photography, smart casual clothing, relaxed expressions. No legible writing. Do not imply anyone's sexuality. Style: premium editorial photography, warm ivory and muted forest-green environment, authentic six-stripe rainbow accents, tactile natural materials, soft daylight, balanced contemporary composition. Keep important subjects within the central 80% for responsive cropping. No captions, no watermark, no invented branding, no overlaid text. This is an illustrative planning concept, not documentary evidence of an actual customer project."
+    },
+    {
+      "id": "retail-window",
+      "path": "public/images/pride/retail-window.webp",
+      "mobilePath": "public/images/pride/retail-window-640.webp",
+      "prompt": "Use case: photorealistic-natural / product-mockup. Asset type: landscape 3:2 website photograph for PrideMonth.ca, a Canadian corporate Pride planning business. Create ONE finished photograph, not a collage. Scene: A sophisticated street-level shopfront in a Canadian city, tall glass windows accented with tasteful translucent rainbow bands, green plants and neutral display plinths inside. Daytime architectural street photography, no business signage, no recognizable brands, no pedestrians. Style: premium editorial photography, warm ivory and muted forest-green environment, authentic six-stripe rainbow accents, tactile natural materials, soft daylight, balanced contemporary composition. Keep important subjects within the central 80% for responsive cropping. No captions, no watermark, no invented branding, no overlaid text. This is an illustrative planning concept, not documentary evidence of an actual customer project."
+    },
+    {
+      "id": "outdoor-gathering",
+      "path": "public/images/pride/outdoor-gathering.webp",
+      "mobilePath": "public/images/pride/outdoor-gathering-640.webp",
+      "prompt": "Use case: photorealistic-natural / product-mockup. Asset type: landscape 3:2 website photograph for PrideMonth.ca, a Canadian corporate Pride planning business. Create ONE finished photograph, not a collage. Scene: An elegant workplace summer gathering setup in a landscaped courtyard: white canopy tent, accessible open pathways, cafe tables, wooden chairs and subtle six-colour rainbow bunting, greenery and brick architecture. Natural afternoon light, empty venue ready for guests. Style: premium editorial photography, warm ivory and muted forest-green environment, authentic six-stripe rainbow accents, tactile natural materials, soft daylight, balanced contemporary composition. Keep important subjects within the central 80% for responsive cropping. No captions, no watermark, no invented branding, no overlaid text. This is an illustrative planning concept, not documentary evidence of an actual customer project."
+    },
+    {
+      "id": "pins-accessories",
+      "path": "public/images/pride/pins-accessories.webp",
+      "mobilePath": "public/images/pride/pins-accessories-640.webp",
+      "prompt": "Use case: photorealistic-natural / product-mockup. Asset type: landscape 3:2 website photograph for PrideMonth.ca, a Canadian corporate Pride planning business. Create ONE finished photograph, not a collage. Scene: Macro still life of enamel rainbow pins, rainbow-striped woven lanyards, cream canvas pouches and a matte forest green notebook neatly arranged on a warm ivory tabletop. Premium product photography with realistic metal and fabric textures. No words or logos. Style: premium editorial photography, warm ivory and muted forest-green environment, authentic six-stripe rainbow accents, tactile natural materials, soft daylight, balanced contemporary composition. Keep important subjects within the central 80% for responsive cropping. No captions, no watermark, no invented branding, no overlaid text. This is an illustrative planning concept, not documentary evidence of an actual customer project."
+    }
+  ]
+}
